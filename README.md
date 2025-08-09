@@ -12,6 +12,6 @@ Firefox user.js for speed, privacy, and security :- *https://github.com/yokoffin
 2. voilent-monkey :- Userscript  (*Tampermonkey for chromium*)
 3. adaptive-tab-bar-color :- for firefox and its based browser  (*not for chromium*)
 
-*no need to debloat your browser use install extension according to your need* 
+*no need to debloat your browser, install extension according to your need* 
 
 
