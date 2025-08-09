@@ -1,7 +1,5 @@
 # Browser
 
-*First*
-
 Firefox user.js for speed, privacy, and security :- *https://github.com/yokoffing/Betterfox*
 
 
