@@ -10,7 +10,7 @@ Firefox user.js for speed, privacy, and security :- *https://github.com/yokoffin
 3. adaptive-tab-bar-color :- for firefox and its based browser  (*not for chromium*)
 
 
-As then go for the user script file according to your use :- *https://github.com/shreyaskr422/browser/blob/main/userscipt-list*
+User script list according to your use :- *https://github.com/shreyaskr422/browser/blob/main/userscipt-list*
 
 *no need to debloat your browser, install extension according to your need* 
 
