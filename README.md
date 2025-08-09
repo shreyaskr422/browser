@@ -1,6 +1,10 @@
 # Browser
 
-FOR STARTER
+*First*
+
+Firefox user.js for speed, privacy, and security :- *https://github.com/yokoffing/Betterfox*
+
+*Then* 
 
 *install all the extentions as per your need*
 
