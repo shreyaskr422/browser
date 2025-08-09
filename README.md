@@ -20,6 +20,6 @@
 -  **Fandom Redirect** :- *https://greasyfork.org/en/scripts/476527-fandom-redirect*
 -  **Reddit Fix** :- *https://greasyfork.org/en/scripts/404497-reddit-fix*
 
-*no need to debloat your browser, install extension according to your use
+**no need to debloat your browser, install extension according to your use**
 
 
