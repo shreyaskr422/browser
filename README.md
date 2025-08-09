@@ -4,7 +4,6 @@
 
 Firefox user.js for speed, privacy, and security :- *https://github.com/yokoffing/Betterfox*
 
-*Then* 
 
 *install all the extentions as per your need*
 
@@ -12,7 +11,6 @@ Firefox user.js for speed, privacy, and security :- *https://github.com/yokoffin
 2. voilent-monkey :- Userscript  (*Tampermonkey for chromium*)
 3. adaptive-tab-bar-color :- for firefox and its based browser  (*not for chromium*)
 
-*second*
 
 As then go for the user script file according to your use :- *https://github.com/shreyaskr422/browser/blob/main/userscipt-list*
 
