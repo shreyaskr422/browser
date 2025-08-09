@@ -5,7 +5,8 @@ Firefox user.js for speed, privacy, and security :- *https://github.com/yokoffin
 
 *install all the extentions as per your need*
 
--   ==ublock-origin :- Adblocker and yeah its best right *Now*==
+-    $${\color{ublock-origin :- Adblocker and yeah its best right *Now*}Light \space Green}$$
+-   ublock-origin :- Adblocker and yeah its best right *Now*
 -  //voilent-monkey :- Userscript  (*Tampermonkey for chromium*)
 -  //adaptive-tab-bar-color :- for firefox and its based browser  (*not for chromium*)
 
