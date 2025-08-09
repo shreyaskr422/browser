@@ -1,2 +1,13 @@
-# browser
-browser settings and config for starter
+# Browser
+
+FOR STARTER
+
+*install all the extentions as per your need*
+
+1. ublock-origin :- Adblocker and yeah its best right *Now*
+2. voilent-monkey :- Userscript ("Tampermonkey for chromium")
+3. adaptive-tab-bar-color :- for firefox and its based browser( "not for chromium")
+
+*no need to debloat your browser use install extension according to your need* 
+
+
