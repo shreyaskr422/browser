@@ -8,6 +8,8 @@
 -  **ublock-origin** :- Adblocker and yeah its best right *Now*
 -  **voilent-monkey** :- Userscript  (*Tampermonkey for chromium*)
 -  **adaptive-tab-bar-color** :- for firefox and its based browser  (*not for chromium*)
+-  **Unhook** :- for the youtube home and shorts blocking
+-  **Dark Reader** :- yeah always the daily need 😮‍💨
 
 
 *User script list according to your use*
