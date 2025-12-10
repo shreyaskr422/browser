@@ -22,7 +22,11 @@
 -  **Fandom Redirect** :- *https://greasyfork.org/en/scripts/476527-fandom-redirect*
 -  **Reddit Fix** :- *https://greasyfork.org/en/scripts/404497-reddit-fix*
 
-- **Firefox Settings in about:config (Only for wayland)**
+
+*Wayland Settings*
+
+
+- **Firefox Settings in about:config**
 - **gfx.webrender.all = true**
 - **media.ffmpeg.vaapi.enabled = true**
 - **widget.wayland-dmabuf-vaapi.enabled = true**  
