@@ -22,6 +22,12 @@
 -  **Fandom Redirect** :- *https://greasyfork.org/en/scripts/476527-fandom-redirect*
 -  **Reddit Fix** :- *https://greasyfork.org/en/scripts/404497-reddit-fix*
 
+- **Firefox Settings in about:config (Only for wayland)**
+- **gfx.webrender.all = true**
+- **media.ffmpeg.vaapi.enabled = true**
+- **widget.wayland-dmabuf-vaapi.enabled = true**  
+
+
 **No need to bloat your browser, install extension and userscript according to your use**
 
 
