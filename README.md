@@ -21,6 +21,7 @@
 -  **GreasyFork Bullshit Filter** :- *https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter*
 -  **Fandom Redirect** :- *https://greasyfork.org/en/scripts/476527-fandom-redirect*
 -  **Reddit Fix** :- *https://greasyfork.org/en/scripts/404497-reddit-fix*
+-  **Custom Google Search** :-*https://greasyfork.org/en/scripts/535629-google-search-custom-sidebar*
 
 
 *Wayland Settings*
